@@ -8,6 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "恋爱问卷"
+    url: https://www.qianyang-acoustics.cn/love-survey/
+
   - title: "Publications"
     url: /publications/
 
